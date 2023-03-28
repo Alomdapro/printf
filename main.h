@@ -27,7 +27,6 @@ int printf_char(va_list val);
 /*to handle the s conversion specifiers */
 int printf_string(va_list val);
 int _strlen(char *s);
-
 /*to handle the i conversion specifiers */
 int printf_int(va_list args);
 /*to handle the d conversion specifiers */
